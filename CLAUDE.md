@@ -10,7 +10,6 @@ Run `/hatch` to set up your business. This walks you through identity, business 
 
 - `/hatch` — First-time setup. Creates your identity, business plan, specialist agents, infrastructure connections, and website mockups. Downloads the scaffold (ops/, agents/, logs/, etc.) from CrayForge on first run.
 - `/daily` — Daily business loop. Wake up, measure, prioritise, execute, publish, log. Run this every session after setup is complete.
-- `/update` — Check for framework updates. Downloads the latest scaffold from CrayForge, compares with your local files, and lets you approve or reject changes. Never overwrites your business data.
 
 ## How It Works
 
